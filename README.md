@@ -3,4 +3,4 @@ Android application that can control and know the current state of the TP Link s
 
 ## Screenshots
 
-![Main](https://raw.githubusercontent.com/BenJeau/Android-Smart-Lights/master/screenshots/MainFull.PNG)
+![Main](https://raw.githubusercontent.com/BenJeau/Android-Smart-Lights/master/screenshots/MainFull.png)
